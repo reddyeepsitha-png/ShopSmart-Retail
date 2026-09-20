@@ -1,0 +1,181 @@
+text,intent,confidence
+Where is my order?,order_status,0.77
+When will my package arrive?,order_status,0.91
+Track my order please,order_status,0.75
+Order tracking update needed,order_status,0.83
+Has my order shipped yet?,order_status,0.9
+I want to return this product,return_request,0.82
+How do I initiate a return?,return_request,0.94
+Return policy for electronics,return_request,0.79
+Can I return after 7 days?,return_request,0.95
+Return pickup scheduling,return_request,0.81
+When will I get my refund?,refund_enquiry,0.79
+Refund not received yet,refund_enquiry,0.85
+Refund status update,refund_enquiry,0.82
+Money not credited back,refund_enquiry,0.75
+How long does refund take?,refund_enquiry,0.89
+My order is delayed,delivery_delay,0.86
+Expected delivery was yesterday,delivery_delay,0.87
+Package not delivered on time,delivery_delay,0.75
+Delivery date passed no update,delivery_delay,0.8
+Late shipment complaint,delivery_delay,0.93
+Is this product available in blue?,product_query,0.79
+Size chart for shirts,product_query,0.79
+Product specifications,product_query,0.87
+Compatible accessories,product_query,0.81
+Stock availability query,product_query,0.77
+Very bad experience,complaint,0.91
+Wrong item delivered,complaint,0.78
+Damaged product received,complaint,0.84
+Poor quality product,complaint,0.75
+I am very unhappy with service,complaint,0.86
+Where can I check my order status?,order_status,1.0
+Can you tell me where my order is?,order_status,1.0
+Has my order been shipped?,order_status,1.0
+I want to track my package,order_status,1.0
+What is the current status of my order?,order_status,1.0
+Can I get an update on my order?,order_status,1.0
+Is my package on the way?,order_status,1.0
+Please provide my order tracking information,order_status,1.0
+When was my order shipped?,order_status,1.0
+I need to know the status of my purchase,order_status,1.0
+Where is my package right now?,order_status,1.0
+Can you check my shipment status?,order_status,1.0
+My order tracking hasn't updated,order_status,1.0
+I would like to track my delivery,order_status,1.0
+Has my package left the warehouse?,order_status,1.0
+Could you give me an update about my order?,order_status,1.0
+How do I track my order?,order_status,1.0
+I haven't received any shipping update,order_status,1.0
+Please check where my order is,order_status,1.0
+What is happening with my shipment?,order_status,1.0
+Can I see my order tracking details?,order_status,1.0
+Is my order dispatched yet?,order_status,1.0
+I want an update regarding my purchase,order_status,1.0
+Please tell me the current location of my package,order_status,1.0
+How can I find my order status?,order_status,1.0
+I want to return the product I received,return_request,1.0
+How can I return an item?,return_request,1.0
+I need to send this product back,return_request,1.0
+I would like to request a return,return_request,1.0
+Can I return this item?,return_request,1.0
+I want to return my purchase,return_request,1.0
+What is the process for returning an item?,return_request,1.0
+Please help me initiate a return,return_request,1.0
+I received the product but want to return it,return_request,1.0
+How do I send an item back?,return_request,1.0
+I need to return something I ordered,return_request,1.0
+Can you arrange a return for my product?,return_request,1.0
+I changed my mind and want to return this,return_request,1.0
+I would like to request a product return,return_request,1.0
+Where can I submit a return request?,return_request,1.0
+Please tell me how to return my order,return_request,1.0
+I don't want this product anymore and want to return it,return_request,1.0
+Can this item be returned?,return_request,1.0
+I need help with returning my purchase,return_request,1.0
+What are the steps to return a product?,return_request,1.0
+I want to send my order back,return_request,1.0
+How long do I have to return this item?,return_request,1.0
+Please initiate a return for my order,return_request,1.0
+Can you help me with the return process?,return_request,1.0
+I need to make a return,return_request,1.0
+When will I receive my refund?,refund_enquiry,1.0
+How can I get a refund?,refund_enquiry,1.0
+I haven't received my refund yet,refund_enquiry,1.0
+Can you tell me the status of my refund?,refund_enquiry,1.0
+How long does a refund take?,refund_enquiry,1.0
+I want to know about my refund,refund_enquiry,1.0
+Please check my refund status,refund_enquiry,1.0
+When will the money be returned to me?,refund_enquiry,1.0
+Has my refund been processed?,refund_enquiry,1.0
+I am waiting for my refund,refund_enquiry,1.0
+How do I request a refund?,refund_enquiry,1.0
+Why haven't I received my refund?,refund_enquiry,1.0
+Can you tell me when my refund will arrive?,refund_enquiry,1.0
+I need information about my refund,refund_enquiry,1.0
+My refund is still pending,refund_enquiry,1.0
+Please help me with my refund,refund_enquiry,1.0
+When should I expect the refunded amount?,refund_enquiry,1.0
+Was my refund processed successfully?,refund_enquiry,1.0
+I want an update on my refund,refund_enquiry,1.0
+How long will it take for the refund to reach me?,refund_enquiry,1.0
+Can I get a refund for my purchase?,refund_enquiry,1.0
+Where is my refunded money?,refund_enquiry,1.0
+Please tell me the refund procedure,refund_enquiry,1.0
+My refund has not been credited,refund_enquiry,1.0
+I need help regarding a refund,refund_enquiry,1.0
+My delivery is late,delivery_delay,1.0
+My package hasn't arrived yet,delivery_delay,1.0
+Why is my delivery delayed?,delivery_delay,1.0
+My order is taking too long to arrive,delivery_delay,1.0
+The delivery is overdue,delivery_delay,1.0
+My package is delayed,delivery_delay,1.0
+Why hasn't my order arrived?,delivery_delay,1.0
+My delivery was supposed to arrive earlier,delivery_delay,1.0
+The expected delivery date has passed,delivery_delay,1.0
+My order hasn't been delivered yet,delivery_delay,1.0
+Can you explain why my delivery is late?,delivery_delay,1.0
+My shipment is taking longer than expected,delivery_delay,1.0
+The package has not arrived on time,delivery_delay,1.0
+I am still waiting for my delivery,delivery_delay,1.0
+Why is my package taking so long?,delivery_delay,1.0
+My order is overdue,delivery_delay,1.0
+The delivery date has passed but I haven't received it,delivery_delay,1.0
+Can you check why my order is delayed?,delivery_delay,1.0
+My package is stuck and hasn't arrived,delivery_delay,1.0
+I expected my order by now,delivery_delay,1.0
+There is a delay with my shipment,delivery_delay,1.0
+My delivery hasn't arrived as promised,delivery_delay,1.0
+When will my delayed package arrive?,delivery_delay,1.0
+My order delivery is taking too long,delivery_delay,1.0
+Please help with my delayed delivery,delivery_delay,1.0
+Can you tell me more about this product?,product_query,1.0
+What features does this product have?,product_query,1.0
+I need more information about this item,product_query,1.0
+What are the specifications of this product?,product_query,1.0
+Is this product available?,product_query,1.0
+Can you provide details about this item?,product_query,1.0
+What sizes are available for this product?,product_query,1.0
+What colors does this product come in?,product_query,1.0
+Can you explain the features of this item?,product_query,1.0
+I want to know more about this product,product_query,1.0
+Does this product come in different variants?,product_query,1.0
+What is included with this product?,product_query,1.0
+Can you give me product details?,product_query,1.0
+I have a question about this item,product_query,1.0
+What are the available options for this product?,product_query,1.0
+Tell me about the specifications of this item,product_query,1.0
+Is there more information available about this product?,product_query,1.0
+What is this product used for?,product_query,1.0
+Can you tell me the dimensions of this product?,product_query,1.0
+I would like to know more about the item,product_query,1.0
+What materials is this product made from?,product_query,1.0
+Does this item have different models?,product_query,1.0
+Can you provide more details about the product?,product_query,1.0
+What are the features and specifications?,product_query,1.0
+I have a question regarding this product,product_query,1.0
+I am unhappy with the service,complaint,1.0
+I want to make a complaint,complaint,1.0
+I am not satisfied with my order,complaint,1.0
+The product I received was damaged,complaint,1.0
+I received the wrong item,complaint,1.0
+I am very disappointed with my purchase,complaint,1.0
+The service was poor,complaint,1.0
+I want to report a problem with my order,complaint,1.0
+The product quality is not acceptable,complaint,1.0
+I had a bad experience with my order,complaint,1.0
+I am unhappy about the product I received,complaint,1.0
+The item I received is defective,complaint,1.0
+This is not what I expected,complaint,1.0
+I want to report an issue with my purchase,complaint,1.0
+I am dissatisfied with the service,complaint,1.0
+My order arrived in poor condition,complaint,1.0
+I received a damaged item,complaint,1.0
+The wrong product was delivered to me,complaint,1.0
+I have a problem with the service,complaint,1.0
+I would like to file a complaint,complaint,1.0
+The product does not meet my expectations,complaint,1.0
+I am disappointed with the quality,complaint,1.0
+There is an issue with the item I received,complaint,1.0
+Please help resolve my complaint,complaint,1.0
+I am not happy with my order,complaint,1.0
